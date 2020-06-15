@@ -1,9 +1,6 @@
 require 'pry'
 def nyc_pigeon_organizer(data)
   # write your code here!
-  bird_names = Array.new
-  traits = Array.new
-  descriptions = Array.new
   answer = Hash.new
 
 
